@@ -1,5 +1,5 @@
 # Imports
-from secrets import CLIENT_ID, CLIENT_SECRET
+from keys import CLIENT_ID, CLIENT_SECRET
 import requests
 import json
 

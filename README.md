@@ -1,5 +1,9 @@
 # playlist-tool
 
+### Environment:
+* `python3 -m venv ../venv/playlist`
+* `source ../venv/playlist/bin/activate`
+
 ### Features:
 * Liked Songs Backup to JSON
     * Future: Liked Songs Restore From JSON
