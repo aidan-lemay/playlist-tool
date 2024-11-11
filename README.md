@@ -21,3 +21,8 @@
     * Save auth key somewhere local
 * YES:
     * Redirect to main application menu
+
+### Considerations:
+
+- Oauth seems to need a browser to authenticate. Maybe this needs to be a webapp instead of a console app.
+    - Am I able to run it headless if this is the case? Can I generate some kind of user key on my spotify account to hardcode it?
